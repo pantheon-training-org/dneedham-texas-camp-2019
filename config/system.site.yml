@@ -1,0 +1,14 @@
+uuid: 65c4d71a-80a7-4207-8835-77e95bfdd123
+name: dneedham-texas-camp-2019
+mail: andrew+build-project-create@pantheon.io
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
